@@ -1,11 +1,12 @@
 # GitHub Pages sites
 
-Auto-generated weekly. Repos using Jekyll or static HTML Pages: **11**
+Auto-generated weekly. Repos using Jekyll or static HTML Pages: **12**
 
 | Repo | Type | URL |
 |------|------|-----|
 | [havaianasdestruido/FNF-Phoenix-Engine](https://github.com/havaianasdestruido/FNF-Phoenix-Engine) | Jekyll | <https://havaianasdestruido.github.io/FNF-Phoenix-Engine/> |
 | [havaianasdestruido/Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) | Static HTML | <https://havaianasdestruido.github.io/Servidor-Perfeito/> |
+| [havaianasdestruido/gh-pages](https://github.com/havaianasdestruido/gh-pages) | Jekyll | <https://havaianasdestruido.github.io/gh-pages/> |
 | [havaianasdestruido/havaianasdestruido.github.io](https://github.com/havaianasdestruido/havaianasdestruido.github.io) | Static HTML | <https://havaianasdestruido.github.io/> |
 | [havaianasdestruido/imgrep](https://github.com/havaianasdestruido/imgrep) | Static HTML | <https://havaianasdestruido.github.io/imgrep/> |
 | [havaianasdestruido/manimce-claude](https://github.com/havaianasdestruido/manimce-claude) | Jekyll | <https://havaianasdestruido.github.io/manimce-claude/> |
