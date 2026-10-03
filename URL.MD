@@ -1,6 +1,6 @@
 # Repo websites
 
-Auto-generated weekly. Repos with a website URL set on their repo page: **33**
+Auto-generated weekly. Repos with a website URL set on their repo page: **36**
 
 | Repo | URL |
 |------|-----|
@@ -17,6 +17,7 @@ Auto-generated weekly. Repos with a website URL set on their repo page: **33**
 | [havaianasdestruido/PersonaDB](https://github.com/havaianasdestruido/PersonaDB) | <https://havaianasdestruido.github.io/PersonaDB/> |
 | [havaianasdestruido/R2K16](https://github.com/havaianasdestruido/R2K16) | <https://havaianasdestruido.github.io/R2K16/> |
 | [havaianasdestruido/Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) | <https://havaianasdestruido.github.io/Servidor-Perfeito/> |
+| [havaianasdestruido/WAL-skill](https://github.com/havaianasdestruido/WAL-skill) | <https://havaianasdestruido.github.io/WAL-skill/> |
 | [havaianasdestruido/WebRadioFM](https://github.com/havaianasdestruido/WebRadioFM) | <https://havaianasdestruido.github.io/WebRadioFM/> |
 | [havaianasdestruido/WindowsMovieMakerDecomp](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp) | <https://havaianasdestruido.github.io/WindowsMovieMakerDecomp/> |
 | [havaianasdestruido/aisearchhelpers](https://github.com/havaianasdestruido/aisearchhelpers) | <https://aisearchhelpers.com> |
@@ -26,9 +27,11 @@ Auto-generated weekly. Repos with a website URL set on their repo page: **33**
 | [havaianasdestruido/freellmapi](https://github.com/havaianasdestruido/freellmapi) | <https://freellmapi.co> |
 | [havaianasdestruido/gh-pages](https://github.com/havaianasdestruido/gh-pages) | <https://havaianasdestruido.github.io/gh-pages/> |
 | [havaianasdestruido/havaianasdestruido.github.io](https://github.com/havaianasdestruido/havaianasdestruido.github.io) | <https://havaianasdestruido.github.io/> |
+| [havaianasdestruido/haxeopenflhaxeflixel-skill](https://github.com/havaianasdestruido/haxeopenflhaxeflixel-skill) | <https://havaianasdestruido.github.io/haxeopenflhaxeflixel-skill/> |
 | [havaianasdestruido/hemorroidabot](https://github.com/havaianasdestruido/hemorroidabot) | <https://havaianasdestruido.github.io/hemorroidabot/> |
 | [havaianasdestruido/imgrep](https://github.com/havaianasdestruido/imgrep) | <https://havaianasdestruido.github.io/imgrep/> |
 | [havaianasdestruido/manimce-claude](https://github.com/havaianasdestruido/manimce-claude) | <https://havaianasdestruido.github.io/manimce-claude/> |
+| [havaianasdestruido/midi-skill](https://github.com/havaianasdestruido/midi-skill) | <https://havaianasdestruido.github.io/midi-skill/> |
 | [havaianasdestruido/orelha](https://github.com/havaianasdestruido/orelha) | <https://havaianasdestruido.github.io/orelha/> |
 | [havaianasdestruido/pm-claude-skills-opencode](https://github.com/havaianasdestruido/pm-claude-skills-opencode) | <https://mohitagw15856.github.io/pm-claude-skills/> |
 | [havaianasdestruido/pong-pop](https://github.com/havaianasdestruido/pong-pop) | <https://havaianasdestruido.github.io/pong-pop/> |
