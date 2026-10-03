@@ -1,19 +1,34 @@
-# GitHub Pages sites
+# Repo websites
 
-Auto-generated weekly. Repos using Jekyll or static HTML Pages: **13**
+Auto-generated weekly. Repos with a website URL set on their repo page: **28**
 
-| Repo | Type | URL |
-|------|------|-----|
-| [havaianasdestruido/FNF-Phoenix-Engine](https://github.com/havaianasdestruido/FNF-Phoenix-Engine) | Jekyll | <https://havaianasdestruido.github.io/FNF-Phoenix-Engine/> |
-| [havaianasdestruido/PersonaDB](https://github.com/havaianasdestruido/PersonaDB) | Jekyll | <https://havaianasdestruido.github.io/PersonaDB/> |
-| [havaianasdestruido/Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) | Static HTML | <https://havaianasdestruido.github.io/Servidor-Perfeito/> |
-| [havaianasdestruido/gh-pages](https://github.com/havaianasdestruido/gh-pages) | Jekyll | <https://havaianasdestruido.github.io/gh-pages/> |
-| [havaianasdestruido/havaianasdestruido.github.io](https://github.com/havaianasdestruido/havaianasdestruido.github.io) | Static HTML | <https://havaianasdestruido.github.io/> |
-| [havaianasdestruido/imgrep](https://github.com/havaianasdestruido/imgrep) | Static HTML | <https://havaianasdestruido.github.io/imgrep/> |
-| [havaianasdestruido/manimce-claude](https://github.com/havaianasdestruido/manimce-claude) | Jekyll | <https://havaianasdestruido.github.io/manimce-claude/> |
-| [havaianasdestruido/orelha](https://github.com/havaianasdestruido/orelha) | Static HTML | <https://havaianasdestruido.github.io/orelha/> |
-| [havaianasdestruido/pong-pop](https://github.com/havaianasdestruido/pong-pop) | Static HTML | <https://havaianasdestruido.github.io/pong-pop/> |
-| [havaianasdestruido/scrobbleviz](https://github.com/havaianasdestruido/scrobbleviz) | Static HTML | <https://havaianasdestruido.github.io/scrobbleviz/> |
-| [havaianasdestruido/sigma-click](https://github.com/havaianasdestruido/sigma-click) | Static HTML | <https://havaianasdestruido.github.io/sigma-click/> |
-| [havaianasdestruido/sitemapping](https://github.com/havaianasdestruido/sitemapping) | Jekyll | <https://havaianasdestruido.github.io/sitemapping/> |
-| [havaianasdestruido/top100](https://github.com/havaianasdestruido/top100) | Jekyll | <https://havaianasdestruido.github.io/top100/> |
+| Repo | URL |
+|------|-----|
+| [havaianasdestruido/AudioTaste](https://github.com/havaianasdestruido/AudioTaste) | <https://audio-taste.vercel.app> |
+| [havaianasdestruido/CivilConection](https://github.com/havaianasdestruido/CivilConection) | <https://civilconection.vercel.app> |
+| [havaianasdestruido/CivilConection-Fernando](https://github.com/havaianasdestruido/CivilConection-Fernando) | <https://civilconection.vercel.app> |
+| [havaianasdestruido/EZInfiniteYTLive](https://github.com/havaianasdestruido/EZInfiniteYTLive) | <https://havaianasdestruido.github.io/EZInfiniteYTLive/> |
+| [havaianasdestruido/FNF-PeoteView](https://github.com/havaianasdestruido/FNF-PeoteView) | <https://itookittoofar.com> |
+| [havaianasdestruido/FNF-Phoenix-Engine](https://github.com/havaianasdestruido/FNF-Phoenix-Engine) | <https://havaianasdestruido.github.io/FNF-Phoenix-Engine/> |
+| [havaianasdestruido/OdontoAura](https://github.com/havaianasdestruido/OdontoAura) | <https://odonto-aura-frontend.vercel.app> |
+| [havaianasdestruido/PersonaDB](https://github.com/havaianasdestruido/PersonaDB) | <https://havaianasdestruido.github.io/PersonaDB/> |
+| [havaianasdestruido/R2K16](https://github.com/havaianasdestruido/R2K16) | <https://havaianasdestruido.github.io/R2K16/> |
+| [havaianasdestruido/Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) | <https://havaianasdestruido.github.io/Servidor-Perfeito/> |
+| [havaianasdestruido/WebRadioFM](https://github.com/havaianasdestruido/WebRadioFM) | <https://havaianasdestruido.github.io/WebRadioFM/> |
+| [havaianasdestruido/WindowsMovieMakerDecomp](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp) | <https://havaianasdestruido.github.io/WindowsMovieMakerDecomp/> |
+| [havaianasdestruido/aisearchhelpers](https://github.com/havaianasdestruido/aisearchhelpers) | <https://aisearchhelpers.com> |
+| [havaianasdestruido/calculator](https://github.com/havaianasdestruido/calculator) | <https://calculator.platform.uno> |
+| [havaianasdestruido/freellmapi](https://github.com/havaianasdestruido/freellmapi) | <https://freellmapi.co> |
+| [havaianasdestruido/gh-pages](https://github.com/havaianasdestruido/gh-pages) | <https://havaianasdestruido.github.io/gh-pages/> |
+| [havaianasdestruido/havaianasdestruido.github.io](https://github.com/havaianasdestruido/havaianasdestruido.github.io) | <https://havaianasdestruido.github.io/> |
+| [havaianasdestruido/hemorroidabot](https://github.com/havaianasdestruido/hemorroidabot) | <https://havaianasdestruido.github.io/hemorroidabot/> |
+| [havaianasdestruido/imgrep](https://github.com/havaianasdestruido/imgrep) | <https://havaianasdestruido.github.io/imgrep/> |
+| [havaianasdestruido/manimce-claude](https://github.com/havaianasdestruido/manimce-claude) | <https://havaianasdestruido.github.io/manimce-claude/> |
+| [havaianasdestruido/orelha](https://github.com/havaianasdestruido/orelha) | <https://havaianasdestruido.github.io/orelha/> |
+| [havaianasdestruido/pm-claude-skills-opencode](https://github.com/havaianasdestruido/pm-claude-skills-opencode) | <https://mohitagw15856.github.io/pm-claude-skills/> |
+| [havaianasdestruido/pong-pop](https://github.com/havaianasdestruido/pong-pop) | <https://havaianasdestruido.github.io/pong-pop/> |
+| [havaianasdestruido/scrobbleviz](https://github.com/havaianasdestruido/scrobbleviz) | <https://havaianasdestruido.github.io/scrobbleviz/> |
+| [havaianasdestruido/sigma-click](https://github.com/havaianasdestruido/sigma-click) | <https://havaianasdestruido.github.io/sigma-click/> |
+| [havaianasdestruido/sitemapping](https://github.com/havaianasdestruido/sitemapping) | <https://havaianasdestruido.github.io/sitemapping/> |
+| [havaianasdestruido/steamlogger](https://github.com/havaianasdestruido/steamlogger) | <https://havaianasdestruido.github.io/steamlogger/> |
+| [havaianasdestruido/top100](https://github.com/havaianasdestruido/top100) | <https://havaianasdestruido.github.io/top100/> |
