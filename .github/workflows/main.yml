@@ -1,4 +1,4 @@
-name: Index GitHub Pages sites
+name: Index repo websites
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
   index:
     runs-on: ubuntu-latest
     env:
-      # PAT needed: GITHUB_TOKEN can't read other repos (or private ones)
+      # PAT needed: GITHUB_TOKEN can't list your other repos (or private ones)
       GH_TOKEN: ${{ secrets.GH_PAT }}
     steps:
       - uses: actions/checkout@v4
@@ -29,58 +29,41 @@ jobs:
             exit 1
           fi
 
-          # If a workflow mentions any of these, it's probably NOT plain static HTML
-          OTHER_BUILD='hugo|astro|next|vite|npm |yarn|pnpm|mkdocs|gatsby|docusaurus|sphinx|eleventy|mdbook|bundle exec|flutter|cargo|dotnet'
-
           rows=""
           count=0
 
-          while read -r repo; do
+          # .homepage is the "Website" field shown on the repo page, and it's
+          # included in the list response — so this is one paginated call,
+          # no per-repo requests at all.
+          while IFS=$'\t' read -r repo url; do
             [ -z "$repo" ] && continue
 
-            # 404 => Pages not enabled
-            pages=$(gh api "repos/$repo/pages" 2>/dev/null) || continue
-            url=$(jq -r '.html_url // empty' <<<"$pages")
-            [ -z "$url" ] && continue
-            build=$(jq -r '.build_type // "legacy"' <<<"$pages")
+            # GitHub shows the value verbatim; make sure it renders as a link
+            case "$url" in
+              http://*|https://*) ;;
+              *) url="https://$url" ;;
+            esac
 
-            # Collect workflow file contents (if any)
-            wf=""
-            files=$(gh api "repos/$repo/contents/.github/workflows" --jq '.[].name' 2>/dev/null || true)
-            for f in $files; do
-              wf+=$(gh api "repos/$repo/contents/.github/workflows/$f" \
-                    -H "Accept: application/vnd.github.raw" 2>/dev/null || true)$'\n'
-            done
-
-            kind=""
-            if grep -q 'actions/jekyll-build-pages' <<<"$wf"; then
-              kind="Jekyll"
-            elif [ "$build" = "legacy" ]; then
-              # Deploy from branch: Jekyll if _config.yml exists, else plain static
-              if gh api "repos/$repo/contents/_config.yml" >/dev/null 2>&1; then
-                kind="Jekyll"
-              else
-                kind="Static HTML"
-              fi
-            elif grep -q 'actions/upload-pages-artifact' <<<"$wf" && ! grep -qiE "$OTHER_BUILD" <<<"$wf"; then
-              kind="Static HTML"
-            fi
-
-            [ -z "$kind" ] && continue
-
-            echo "✔ $repo ($kind) -> $url"
-            rows+="| [$repo](https://github.com/$repo) | $kind | <$url> |"$'\n'
+            echo "✔ $repo -> $url"
+            rows+="| [$repo](https://github.com/$repo) | <$url> |"$'\n'
             count=$((count + 1))
-          done < <(gh api --paginate "user/repos?affiliation=owner&per_page=100" \
-                     --jq '.[] | select(.archived | not) | .full_name' | sort)
+          done < <(
+            gh api --paginate "user/repos?affiliation=owner&per_page=100" \
+              --jq '.[]
+                    | select(.archived | not)
+                    | (.homepage // "" | gsub("^\\s+|\\s+$"; "")) as $url
+                    | select($url != "")
+                    | [.full_name, $url]
+                    | @tsv' | sort
+          )
 
           {
-            echo "# GitHub Pages sites"
+            echo "# Repo websites"
             echo
-            echo "Auto-generated weekly. Repos using Jekyll or static HTML Pages: **$count**"
+            echo "Auto-generated weekly. Repos with a website URL set on their repo page: **$count**"
             echo
-            echo "| Repo | Type | URL |"
-            echo "|------|------|-----|"
+            echo "| Repo | URL |"
+            echo "|------|-----|"
             printf '%s' "$rows"
           } > URL.MD
 
@@ -92,6 +75,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "chore: update URL.MD (GitHub Pages index)"
+            git commit -m "chore: update URL.MD (repo website index)"
             git push
           fi
