@@ -1,6 +1,6 @@
 # Repo websites
 
-Auto-generated weekly. Repos with a website URL set on their repo page: **28**
+Auto-generated weekly. Repos with a website URL set on their repo page: **33**
 
 | Repo | URL |
 |------|-----|
@@ -10,13 +10,18 @@ Auto-generated weekly. Repos with a website URL set on their repo page: **28**
 | [havaianasdestruido/EZInfiniteYTLive](https://github.com/havaianasdestruido/EZInfiniteYTLive) | <https://havaianasdestruido.github.io/EZInfiniteYTLive/> |
 | [havaianasdestruido/FNF-PeoteView](https://github.com/havaianasdestruido/FNF-PeoteView) | <https://itookittoofar.com> |
 | [havaianasdestruido/FNF-Phoenix-Engine](https://github.com/havaianasdestruido/FNF-Phoenix-Engine) | <https://havaianasdestruido.github.io/FNF-Phoenix-Engine/> |
+| [havaianasdestruido/Giggles-Shit](https://github.com/havaianasdestruido/Giggles-Shit) | <https://havaianasdestruido.github.io/Giggles-Shit/> |
+| [havaianasdestruido/MeatyMod](https://github.com/havaianasdestruido/MeatyMod) | <https://havaianasdestruido.github.io/MeatyMod/> |
 | [havaianasdestruido/OdontoAura](https://github.com/havaianasdestruido/OdontoAura) | <https://odonto-aura-frontend.vercel.app> |
+| [havaianasdestruido/PWSV](https://github.com/havaianasdestruido/PWSV) | <https://havaianasdestruido.github.io/PWSV/> |
 | [havaianasdestruido/PersonaDB](https://github.com/havaianasdestruido/PersonaDB) | <https://havaianasdestruido.github.io/PersonaDB/> |
 | [havaianasdestruido/R2K16](https://github.com/havaianasdestruido/R2K16) | <https://havaianasdestruido.github.io/R2K16/> |
 | [havaianasdestruido/Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) | <https://havaianasdestruido.github.io/Servidor-Perfeito/> |
 | [havaianasdestruido/WebRadioFM](https://github.com/havaianasdestruido/WebRadioFM) | <https://havaianasdestruido.github.io/WebRadioFM/> |
 | [havaianasdestruido/WindowsMovieMakerDecomp](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp) | <https://havaianasdestruido.github.io/WindowsMovieMakerDecomp/> |
 | [havaianasdestruido/aisearchhelpers](https://github.com/havaianasdestruido/aisearchhelpers) | <https://aisearchhelpers.com> |
+| [havaianasdestruido/apkdecomp-skill](https://github.com/havaianasdestruido/apkdecomp-skill) | <https://havaianasdestruido.github.io/apkdecomp-skill/> |
+| [havaianasdestruido/brnews-db](https://github.com/havaianasdestruido/brnews-db) | <https://havaianasdestruido.github.io/brnews-db/> |
 | [havaianasdestruido/calculator](https://github.com/havaianasdestruido/calculator) | <https://calculator.platform.uno> |
 | [havaianasdestruido/freellmapi](https://github.com/havaianasdestruido/freellmapi) | <https://freellmapi.co> |
 | [havaianasdestruido/gh-pages](https://github.com/havaianasdestruido/gh-pages) | <https://havaianasdestruido.github.io/gh-pages/> |
