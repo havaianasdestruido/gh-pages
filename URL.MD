@@ -1,6 +1,6 @@
 # Repo websites
 
-Auto-generated weekly. Repos with a website URL set on their repo page: **36**
+Auto-generated weekly. Repos with a website URL set on their repo page: **38**
 
 | Repo | URL |
 |------|-----|
@@ -17,6 +17,7 @@ Auto-generated weekly. Repos with a website URL set on their repo page: **36**
 | [havaianasdestruido/PersonaDB](https://github.com/havaianasdestruido/PersonaDB) | <https://havaianasdestruido.github.io/PersonaDB/> |
 | [havaianasdestruido/R2K16](https://github.com/havaianasdestruido/R2K16) | <https://havaianasdestruido.github.io/R2K16/> |
 | [havaianasdestruido/Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) | <https://havaianasdestruido.github.io/Servidor-Perfeito/> |
+| [havaianasdestruido/TermuxUbuntuPRoot](https://github.com/havaianasdestruido/TermuxUbuntuPRoot) | <https://havaianasdestruido.github.io/TermuxUbuntuPRoot/> |
 | [havaianasdestruido/WAL-skill](https://github.com/havaianasdestruido/WAL-skill) | <https://havaianasdestruido.github.io/WAL-skill/> |
 | [havaianasdestruido/WebRadioFM](https://github.com/havaianasdestruido/WebRadioFM) | <https://havaianasdestruido.github.io/WebRadioFM/> |
 | [havaianasdestruido/WindowsMovieMakerDecomp](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp) | <https://havaianasdestruido.github.io/WindowsMovieMakerDecomp/> |
@@ -35,6 +36,7 @@ Auto-generated weekly. Repos with a website URL set on their repo page: **36**
 | [havaianasdestruido/orelha](https://github.com/havaianasdestruido/orelha) | <https://havaianasdestruido.github.io/orelha/> |
 | [havaianasdestruido/pm-claude-skills-opencode](https://github.com/havaianasdestruido/pm-claude-skills-opencode) | <https://mohitagw15856.github.io/pm-claude-skills/> |
 | [havaianasdestruido/pong-pop](https://github.com/havaianasdestruido/pong-pop) | <https://havaianasdestruido.github.io/pong-pop/> |
+| [havaianasdestruido/quackdb](https://github.com/havaianasdestruido/quackdb) | <https://havaianasdestruido.github.io/quackdb/> |
 | [havaianasdestruido/scrobbleviz](https://github.com/havaianasdestruido/scrobbleviz) | <https://havaianasdestruido.github.io/scrobbleviz/> |
 | [havaianasdestruido/sigma-click](https://github.com/havaianasdestruido/sigma-click) | <https://havaianasdestruido.github.io/sigma-click/> |
 | [havaianasdestruido/sitemapping](https://github.com/havaianasdestruido/sitemapping) | <https://havaianasdestruido.github.io/sitemapping/> |
