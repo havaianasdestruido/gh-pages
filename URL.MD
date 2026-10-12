@@ -1,6 +1,6 @@
 # Repo websites
 
-Auto-generated weekly. Repos with a website URL set on their repo page: **38**
+Auto-generated weekly. Repos with a website URL set on their repo page: **41**
 
 | Repo | URL |
 |------|-----|
@@ -27,15 +27,18 @@ Auto-generated weekly. Repos with a website URL set on their repo page: **38**
 | [havaianasdestruido/calculator](https://github.com/havaianasdestruido/calculator) | <https://calculator.platform.uno> |
 | [havaianasdestruido/freellmapi](https://github.com/havaianasdestruido/freellmapi) | <https://freellmapi.co> |
 | [havaianasdestruido/gh-pages](https://github.com/havaianasdestruido/gh-pages) | <https://havaianasdestruido.github.io/gh-pages/> |
+| [havaianasdestruido/global-sitemap](https://github.com/havaianasdestruido/global-sitemap) | <https://havaianasdestruido.github.io/global-sitemap/> |
 | [havaianasdestruido/havaianasdestruido.github.io](https://github.com/havaianasdestruido/havaianasdestruido.github.io) | <https://havaianasdestruido.github.io/> |
 | [havaianasdestruido/haxeopenflhaxeflixel-skill](https://github.com/havaianasdestruido/haxeopenflhaxeflixel-skill) | <https://havaianasdestruido.github.io/haxeopenflhaxeflixel-skill/> |
 | [havaianasdestruido/hemorroidabot](https://github.com/havaianasdestruido/hemorroidabot) | <https://havaianasdestruido.github.io/hemorroidabot/> |
 | [havaianasdestruido/imgrep](https://github.com/havaianasdestruido/imgrep) | <https://havaianasdestruido.github.io/imgrep/> |
+| [havaianasdestruido/js-bot-detector](https://github.com/havaianasdestruido/js-bot-detector) | <https://www.npmjs.com/package/@niksbanna/bot-detector> |
 | [havaianasdestruido/manimce-claude](https://github.com/havaianasdestruido/manimce-claude) | <https://havaianasdestruido.github.io/manimce-claude/> |
 | [havaianasdestruido/midi-skill](https://github.com/havaianasdestruido/midi-skill) | <https://havaianasdestruido.github.io/midi-skill/> |
 | [havaianasdestruido/orelha](https://github.com/havaianasdestruido/orelha) | <https://havaianasdestruido.github.io/orelha/> |
 | [havaianasdestruido/pm-claude-skills-opencode](https://github.com/havaianasdestruido/pm-claude-skills-opencode) | <https://mohitagw15856.github.io/pm-claude-skills/> |
 | [havaianasdestruido/pong-pop](https://github.com/havaianasdestruido/pong-pop) | <https://havaianasdestruido.github.io/pong-pop/> |
+| [havaianasdestruido/pwn](https://github.com/havaianasdestruido/pwn) | <https://havaianasdestruido.github.io/pwn/> |
 | [havaianasdestruido/quackdb](https://github.com/havaianasdestruido/quackdb) | <https://havaianasdestruido.github.io/quackdb/> |
 | [havaianasdestruido/scrobbleviz](https://github.com/havaianasdestruido/scrobbleviz) | <https://havaianasdestruido.github.io/scrobbleviz/> |
 | [havaianasdestruido/sigma-click](https://github.com/havaianasdestruido/sigma-click) | <https://havaianasdestruido.github.io/sigma-click/> |
