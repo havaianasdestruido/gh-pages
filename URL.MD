@@ -1,10 +1,11 @@
 # Repo websites
 
-Auto-generated weekly. Repos with a website URL set on their repo page: **41**
+Auto-generated weekly. Repos with a website URL set on their repo page: **42**
 
 | Repo | URL |
 |------|-----|
 | [havaianasdestruido/AudioTaste](https://github.com/havaianasdestruido/AudioTaste) | <https://audio-taste.vercel.app> |
+| [havaianasdestruido/CNLeaks](https://github.com/havaianasdestruido/CNLeaks) | <https://havaianasdestruido.github.io/CNLeaks/> |
 | [havaianasdestruido/CivilConection](https://github.com/havaianasdestruido/CivilConection) | <https://civilconection.vercel.app> |
 | [havaianasdestruido/CivilConection-Fernando](https://github.com/havaianasdestruido/CivilConection-Fernando) | <https://civilconection.vercel.app> |
 | [havaianasdestruido/EZInfiniteYTLive](https://github.com/havaianasdestruido/EZInfiniteYTLive) | <https://havaianasdestruido.github.io/EZInfiniteYTLive/> |
