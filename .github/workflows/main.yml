@@ -2,7 +2,7 @@ name: Index repo websites
 
 on:
   schedule:
-    - cron: "0 6 * * 1" # every Monday 06:00 UTC
+    - cron: "0 0 * * 1" 
   workflow_dispatch: # manual run button
 
 permissions:
